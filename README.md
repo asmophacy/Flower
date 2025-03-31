@@ -14,7 +14,9 @@ Downlode Ruby for the SCSS
 npm i -g scss
 ```
 
-### Map SCSS file with HTML
+### execute
+go to the directory that flower is in after you cloned it and do the code below
+run: "sass --watch style.scss:style.css"
 
 ```
 Follow Youtube Video For map scss file with html
