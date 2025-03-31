@@ -16,10 +16,10 @@ npm i -g scss
 
 ### execute
 go to the directory that flower is in after you cloned it and do the code below
-run: "sass --watch style.scss:style.css"
+run:
 
 ```
-Follow Youtube Video For map scss file with html
+sass --watch style.scss:style.css
 ```
 <a href="https://www.youtube.com/@search4code?sub_confirmation=1">
   <img src="https://static.vecteezy.com/system/resources/previews/018/930/572/non_2x/youtube-logo-youtube-icon-transparent-free-png.png" alt="YouTube Logo" width="80">
